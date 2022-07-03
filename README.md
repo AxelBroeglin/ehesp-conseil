@@ -30,7 +30,7 @@ The audit firm EHESP Conseil contacted me to create their new website. The firm 
 
 
 ## Screenshots
-![Example video]https://axelbroeglin.dev/images/ehesp-conseil.mp4
+https://axelbroeglin.dev/images/ehesp-conseil.mp4
 
 
 ## Project Status
