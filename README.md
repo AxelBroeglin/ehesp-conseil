@@ -34,7 +34,6 @@ The audit firm EHESP Conseil contacted me to create their new website. The firm 
 https://user-images.githubusercontent.com/16608247/177057153-c2c55058-5bad-4f10-9998-bebab8aada91.mp4
 
 
-https://axelbroeglin.dev/images/ehesp-conseil.mp4
 
 
 ## Project Status
