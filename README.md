@@ -1,5 +1,5 @@
 # EHESP Conseil
-> This project is a website designed a developped for a customer, an Audit Firm from France..
+> This project is a website designed a developped for a customer, an Audit Firm from France.
 > Live site [_here_](https://www.ehespconseil.fr/). 
 
 ## Table of Contents
