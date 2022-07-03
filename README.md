@@ -35,6 +35,13 @@ https://user-images.githubusercontent.com/16608247/177057153-c2c55058-5bad-4f10-
 
 
 
+## Thought process
+I planned most of the tasks to be done before the project started, in order to be as prepared as possible. I thought that a maximum of preparation on my side could compensate for the lack of availability of the firm due to its activity.
+
+
+## Project Status
+Unfortunately the perhaps too much planning coupled with long delays in client feedbacks prevented me from having a great flexibility on this project, which took 6 months to see the day in total. I would know in the future that it is better to plan less, or at least to take the time to create a more flexible organization, in order to compensate for the possible lack of availability of a firm like this.
+
 
 ## Project Status
 Project is:  _complete_ . I taught the firm how to use the website. They are able to update it by themselves now.
